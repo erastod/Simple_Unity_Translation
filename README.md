@@ -1,7 +1,7 @@
 # Simple_Unity_Translation
 Simple scripts to translate a game strings into multiple languages in unity.
 How to use:
-# Bolivene - Runtime Localization for Unity
+# BoliVene - Runtime Localization for Unity
 Lightweight **XML-driven** localisation that you can drop into any Unity project in minutes.  
 Perfect for small teams and solo devs who need translations **without** the usual bloat.
 
