@@ -33,7 +33,7 @@ using System.Collections.Generic;
 using System.Xml.Linq;
 using UnityEngine;
 
-namespace IndieTools.Localization
+namespace BoliVene.Localization
 {
     /// <summary>
     /// Lightweight, singleton-style localisation service.
